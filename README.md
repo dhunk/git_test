@@ -1,1 +1,1 @@
-This is dhunk's first git project!
+This is dhunk's first git project! I have a long road ahead.
